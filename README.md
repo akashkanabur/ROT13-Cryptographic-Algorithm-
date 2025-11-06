@@ -21,3 +21,21 @@ ROT13 is a simple letter substitution cipher that replaces a letter with the 13t
 - **Preserves case**: Maintains uppercase/lowercase formatting
 
 ### How It Works
+
+
+**Examples:**
+- "HELLO" → "URYYB"
+- "secret" → "frperg"
+- "ROT13 example!" → "EBG13 rknzcyr!"
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Python 3.6 or higher
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/rot13-cipher.git
+   cd rot13-cipher
